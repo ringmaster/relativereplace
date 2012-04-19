@@ -7,6 +7,6 @@
 	<url>http://habariproject.org/</url>
 	<description><![CDATA[Replace server strings in post content to make absolute paths for images (and other things) ]]></description>
 	<copyright>2012</copyright>
-	<guid>5f2f5181-68c9-4607-a765-763861ee6013<guid>
+	<guid>5f2f5181-68c9-4607-a765-763861ee6013</guid>
 </pluggable>
  
